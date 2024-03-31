@@ -1,1 +1,1 @@
-# Memory-RTL-Design-and-Verification
+# Memory RTL Design and Verification
